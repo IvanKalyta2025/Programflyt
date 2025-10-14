@@ -1,0 +1,6 @@
+@Programflyt_HostAddress = http://localhost:5239
+
+GET {{Programflyt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
